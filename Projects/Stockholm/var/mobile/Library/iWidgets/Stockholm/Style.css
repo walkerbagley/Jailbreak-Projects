@@ -1,0 +1,39 @@
+@font-face{
+    font-family: SFUltralight;
+    src: url(fonts/SFProDisplay-Ultralight.ttf)
+}
+@font-face{
+    font-family: SFLight;
+    src: url(fonts/SFProDisplay-Light.ttf);
+}
+@font-face{
+    font-family: SFMedium;
+    src: url(fonts/SFProDisplay-Medium.ttf);
+}
+@font-face{
+    font-family: SFBold;
+    src: url(fonts/SFProDisplay-Bold.ttf);
+}
+@font-face{
+    font-family: SFHeavy;
+    src: url(fonts/SFProDisplay-Heavy.ttf);
+}
+@font-face{
+    font-family: SFBlack;
+    src: url(fonts/SFProDisplay-Black.ttf);
+}
+
+#widget{
+    color: #000000;
+    font-family: 'SFLight';
+    text-align: center;
+}
+#clock{
+    font-size: 60px;
+}
+#date{
+    font-size: 20px;
+    margin-top: -8px;
+    letter-spacing: .08em;
+    display: inline-block;
+}

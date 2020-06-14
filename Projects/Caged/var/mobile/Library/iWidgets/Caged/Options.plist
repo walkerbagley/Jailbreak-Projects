@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>myWidth</string>
+        <key>label</key>
+        <string>Width</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>325</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>myHeight</string>
+        <key>label</key>
+        <string>Height</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>450</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>myRadius</string>
+        <key>label</key>
+        <string>Corner Radius</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>30</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>myColor</string>
+        <key>label</key>
+        <string>Color</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>#000000</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>userOpacity</string>
+        <key>label</key>
+        <string>Opacity (0-1)</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>0.5</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>userBlur</string>
+        <key>label</key>
+        <string>Blur</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>0</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>backBlur</string>
+        <key>label</key>
+        <string>Background Blur</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>10</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>borderColor</string>
+        <key>label</key>
+        <string>Border Color</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>transparent</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>borderWidth</string>
+        <key>label</key>
+        <string>Border Width</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>0</string>
+    </dict>
+</array>
+</plist>

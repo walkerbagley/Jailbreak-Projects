@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>alignment</string>
+        <key>label</key>
+        <string>Alignment</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>center</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>myColor</string>
+        <key>label</key>
+        <string>Text Color</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>#ffffff</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>fontWeight</string>
+        <key>label</key>
+        <string>Font Weight</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>Light</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>timeFormat</string>
+        <key>label</key>
+        <string>Time Format</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>hh:mm</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>dateFormat</string>
+        <key>label</key>
+        <string>Date Format</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>DDDD, MMMM D</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>tfh</string>
+        <key>label</key>
+        <string>24 Hour</string>
+        <key>type</key>
+        <string>switch</string>
+        <key>default</key>
+        <false/>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>shortDay</string>
+        <key>label</key>
+        <string>Short Weekday</string>
+        <key>type</key>
+        <string>switch</string>
+        <key>default</key>
+        <false/>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>shortMonth</string>
+        <key>label</key>
+        <string>Short Month</string>
+        <key>type</key>
+        <string>switch</string>
+        <key>default</key>
+        <false/>
+    </dict>
+</array>
+</plist>
