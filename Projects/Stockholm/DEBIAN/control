@@ -1,9 +1,0 @@
-Package: com.walkerbagley.stockholm
-Name: Stockholm
-Version: 1.0
-Architecture: iphoneos-arm
-Description: An awesome widget for your home screen mimicking the stock default lock screen clock.
-Author: Walker Bagley
-Maintainer: Walker Bagley
-Section: Widgets
-Depends: com.matchstic.xenhtml

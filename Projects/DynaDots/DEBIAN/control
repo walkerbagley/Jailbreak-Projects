@@ -1,9 +1,0 @@
-Package: com.walkerbagley.dynadots
-Name: DynaDots
-Version: 1.1
-Architecture: iphoneos-arm
-Description: An awesome pack of page dots styles!
-Author: Walker Bagley
-Maintainer: Walker Bagley
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard | net.dodtweaks.ithemer

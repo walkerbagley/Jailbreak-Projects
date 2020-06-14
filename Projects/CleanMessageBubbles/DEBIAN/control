@@ -1,9 +1,0 @@
-Package: com.walkerbagley.cleanmessagebubbles
-Name: CleanMessageBubbles
-Version: 1.1
-Architecture: iphoneos-arm
-Description: A pack of awesome message bubble styles to enhance your texting experience!
-Author: Walker Bagley
-Maintainer: Walker Bagley
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard, com.twickd.ethan-whited.bubblelineremover
