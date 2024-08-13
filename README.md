@@ -1,4 +1,3 @@
-# walkerbagley
-A home for all of my work!
+# Jailbreak-Projects
 
-Check out the code and file structure for my free projects here.
+I have made a few of my themes and widgets from my jailbreak development open source in this repository.
